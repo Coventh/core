@@ -6,11 +6,6 @@ This repo contains open source Macross Software projects.
 
 - [Visual Studio 2019](https://www.visualstudio.com/downloads/)
 
-## Useful Links
-
-- Project tracking: [GitHub](https://github.com/Macross-Software/core/issues)
-- Source: [GitHub](https://github.com/Macross-Software/core)
-
 ## Released Projects
 
 - [Macross.Windows.Debugging](./ClassLibraries/Macross.Windows.Debugging/README.md) - Debugging UI.
